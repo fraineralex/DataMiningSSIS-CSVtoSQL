@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Practice4CSVtoSQL", "Practice4CSVtoSQL\Practice4CSVtoSQL.dtproj", "{C65E9FCD-CB42-48AD-BC86-D480C74B0C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C65E9FCD-CB42-48AD-BC86-D480C74B0C5D}.Development|Default.ActiveCfg = Development
+		{C65E9FCD-CB42-48AD-BC86-D480C74B0C5D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F63B30-155A-4497-B153-CEFE1889A072}
+	EndGlobalSection
+EndGlobal
